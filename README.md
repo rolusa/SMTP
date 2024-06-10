@@ -1,1 +1,1 @@
-# SMTP
+# iRedMail
